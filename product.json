@@ -1,0 +1,592 @@
+    [
+
+    {
+        "name": "Green Shirt",
+        "description": "Stylish green shirt for men.",
+        "image": "components/latest1.jpg",
+        "price": 600,
+        "keywords": "shirt green denim men",
+        "link": "products details/product_detail1.html"
+    },
+    {
+        "name": "Black Blazer",
+        "description": "Black Blazer for men.",
+        "image": "components/latest2.jpg",
+        "price": 1800,
+        "keywords": "black blazer men",
+        "link": "products details/product_detail2.html"
+    },
+    {
+        "name": "Dress Top",
+        "description": "Dress Top for women.",
+        "image": "components/latest3.jpg",
+        "price": 900,
+        "keywords": "women dress top",
+        "link": "products details/product_detail3.html"
+    },
+    {
+        "name": "Jeans Pant",
+        "description": "Jeans Pant for men.",
+        "image": "components/latest4.jpg",
+        "price": 600,
+        "keywords": "jeans pant men",
+        "link": "products details/product_detail4.html"
+    },
+    {
+        "name": "women blazer",
+        "description": "Stylish women blazer for women.",
+        "image": "components/latest5.jpg",
+        "price": 600,
+        "keywords": "women blazer grey",
+        "link": "products details/product_detail5.html"
+    },
+    {
+        "name": "T-shirt",
+        "description": "Stylish T-shirt for men.",
+        "image": "components/latest6.jpg",
+        "price": 600,
+        "keywords": "tshirt T-shirt Tshirt men T shirt t shirt",
+        "link": "products details/product_detail6.html"
+    },
+
+
+
+
+
+
+
+    {
+        "name": "Teddy dolls",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift1.jpg",
+        "price": 1499,
+        "keywords": "toy teddy kids dolls gift gifts",
+        "link": "categories/gp1_details.html"
+    },
+    {
+        "name": "Teddy bear",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift2.jpg",
+        "price": 599,
+        "keywords": "pink teddy kids dolls gift gifts",
+        "link": "categories/gp2_details.html"
+    },
+    {
+        "name": "Teddy bear",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/teddy1.jpg",
+        "price": 900,
+        "keywords": "cute brown teddy kids dolls gift gifts",
+        "link": "categories/gp3_details.html"
+    },
+    {
+        "name": "Teddy bear",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/teddy3.jpg",
+        "price": 550,
+        "keywords": "blue teddy kids dolls gift gifts",
+        "link": "categories/gp4_details.html"
+    },
+    {
+        "name": "Teddy with Roses",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/teddy4.jpg",
+        "price": 1249,
+        "keywords": "rose with teddy kids dolls gift gifts",
+        "link": "categories/gp5_details.html"
+    },
+    {
+        "name": "Teddy combination",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift7.jpg",
+        "price": 1499,
+        "keywords": "combination with teddy kids dolls gift gifts",
+        "link": "categories/gp6_details.html"
+    },
+    {
+        "name": "Queen chain",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/chain2.jpg",
+        "price": 1649,
+        "keywords": "queen chain gold women garnaments gift gifts",
+        "link": "categories/gp7_details.html"
+    },
+    {
+        "name": "Unique chain",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/chain3.jpg",
+        "price": 1299,
+        "keywords": "unique chain gold gift gifts",
+        "link": "categories/gp8_details.html"
+    },
+    {
+        "name": "Love chain",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/chain4.jpg",
+        "price": 999,
+        "keywords": "love chain symbol diamond gift gifts",
+        "link": "categories/gp9_details.html"
+    },
+    {
+        "name": "Traditional chain",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/chain5.jpg",
+        "price": 1299,
+        "keywords": "traditional function ethnic gift gifts",
+        "link": "categories/gp10_details.html"
+    },
+    {
+        "name": "Golden Bangles",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift3.jpg",
+        "price": 1599,
+        "keywords": "Gold bangles simple gift gifts",
+        "link": "categories/gp11_details.html"
+    },
+    {
+        "name": "Bride Necklace",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift4.jpg",
+        "price": 1399,
+        "keywords": "women necklace gold design dolls gift gifts",
+        "link": "categories/gp12_details.html"
+    },
+    {
+        "name": "Engagement Ring",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift5.jpg",
+        "price": 1600,
+        "keywords": "ring engagement special diamonds gift gifts",
+        "link": "categories/gp13_details.html"
+    },
+    {
+        "name": "Occasional Ring",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/ring1.jpg",
+        "price": 1199,
+        "keywords": "ring engagement special diamonds gift gifts",
+        "link": "categories/gp14_details.html"
+    },
+    {
+        "name": "Diamond Ring",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/ring2.jpg",
+        "price": 1750,
+        "keywords": "ring engagement special diamonds gift gifts",
+        "link": "categories/gp15_details.html"
+    },
+    {
+        "name": "Doll and toy",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift6.jpg",
+        "price": 950,
+        "keywords": "doll toy kids gift gifts",
+        "link": "categories/gp16_details.html"
+    },
+    {
+        "name": "Marriage gift",
+        "description": "Soft teddy bear toy for kids and gift purpose.",
+        "image": "components/categories/gifts/gift8.jpg",
+        "price": 1650,
+        "keywords": "marriage engagement special gift gifts",
+        "link": "categories/gp17_details.html"
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+    "name": "Dress Top",
+    "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+    "image": "components/categories/kids/kid1.jpg",
+    "price": 799,
+    "keywords": "kids dress top fashion breathable comfortable cute",
+    "link": "categories/kp1_details.html"
+    },
+    {
+        "name": "Dress Top",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid1.jpg",
+        "price": 799,
+        "keywords": "kids dress top breathable comfortable cute fun",
+        "link": "categories/kp1_details.html"
+    },
+    {
+        "name": "Stylish Top",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid2.jpg",
+        "price": 1300,
+        "keywords": "stylish top kids breathable fun dress fashion",
+        "link": "categories/kp2_details.html"
+    },
+    {
+        "name": "Angel Dress",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid3.jpg",
+        "price": 1400,
+        "keywords": "angel dress kids comfort breathable party wear",
+        "link": "categories/kp3_details.html"
+    },
+    {
+        "name": "Party wear",
+        "description": "Dress your little champ in this stylish kids' kurta, perfect for festive and traditional occasions. Made from soft, breathable fabric to keep him comfortable all day long. Features classic cuts, elegant patterns, and vibrant colors for a charming ethnic look. Ideal for weddings, festivals, family gatherings, or school functions. A perfect blend of tradition and style tailored for young boys.",
+        "image": "components/categories/kids/kid13.jpg",
+        "price": 1650,
+        "keywords": "party wear kids traditional ethnic kurta boys",
+        "link": "categories/kp4_details.html"
+    },
+    {
+        "name": "Traditional wear",
+        "description": "Dress your little champ in this stylish kids' kurta, perfect for festive and traditional occasions. Made from soft, breathable fabric to keep him comfortable all day long. Features classic cuts, elegant patterns, and vibrant colors for a charming ethnic look. Ideal for weddings, festivals, family gatherings, or school functions. A perfect blend of tradition and style tailored for young boys.",
+        "image": "components/categories/kids/kid14.jpg",
+        "price": 1749,
+        "keywords": "traditional wear kurta kids ethnic festive boys",
+        "link": "categories/kp5_details.html"
+    },
+    {
+        "name": "Simple Dress",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid4.jpg",
+        "price": 649,
+        "keywords": "simple dress kids fashion breathable fun play",
+        "link": "categories/kp7_details.html"
+    },
+    {
+        "name": "Wonderfull Dress",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid17.jpg",
+        "price": 1299,
+        "keywords": "wonderful dress kids playful breathable comfortable",
+        "link": "categories/kp8_details.html"
+    },
+    {
+        "name": "Trendy Dress",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid7.jpg",
+        "price": 1399,
+        "keywords": "trendy dress kids fashion fun stylish breathable",
+        "link": "categories/kp9_details.html"
+    },
+    {
+        "name": "Simple Wear",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid9.jpg",
+        "price": 799,
+        "keywords": "simple wear kids fashion fun breathable top",
+        "link": "categories/kp10_details.html"
+    },
+    {
+        "name": "Red Top",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid8.jpg",
+        "price": 899,
+        "keywords": "red top kids breathable soft fabric playtime",
+        "link": "categories/kp11_details.html"
+    },
+    {
+        "name": "Shirt and Pant",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid11.jpg",
+        "price": 550,
+        "keywords": "shirt pant pink kids breathable soft top",
+        "link": "categories/kp16_details.html"
+    },
+    {
+        "name": "Shirt and Pant",
+        "description": "Let your little one shine in this cute and comfortable kids' top dress. Made from soft, breathable fabric that's gentle on the skin and perfect for all-day wear. Features playful colors, fun prints, and easy-to-wear designs kids will love. Ideal for birthdays, play dates, or everyday fun and style. A perfect blend of fashion, comfort, and joy for your child's wardrobe.",
+        "image": "components/categories/kids/kid18.jpg",
+        "price": 550,
+        "keywords": "shirt pant combo pink breathable kids",
+        "link": "categories/kp18_details.html"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Formal Pant",
+        "description": "Step into sophistication with these classic men’s formal pants, tailored for a sharp, polished look. Crafted from premium fabric, they offer a comfortable fit with a smooth finish. Perfect for office wear, business meetings, and formal occasions.",
+        "image": "components/categories/men/men7.jpg",
+        "price": 800,
+        "keywords": "formal pant men office wear",
+        "link": "categories/mp1_details.html"
+    },
+    {
+        "name": "Stylish Pant",
+        "description": "Step into sophistication with these classic men’s formal pants, tailored for a sharp, polished look. Crafted from premium fabric for comfort and style. Ideal for office, business, or formal occasions.",
+        "image": "components/categories/men/men2.jpg",
+        "price": 1200,
+        "keywords": "stylish pant formal men office",
+        "link": "categories/mp2_details.html"
+    },
+    {
+        "name": "Formal Pant",
+        "description": "Step into sophistication with these classic men’s formal pants, offering a comfortable fit and smooth finish. Ideal for office wear, business meetings, and formal events.",
+        "image": "components/categories/men/men3.jpg",
+        "price": 900,
+        "keywords": "formal pant professional wear business",
+        "link": "categories/mp3_details.html"
+    },
+    {
+        "name": "Night Pant",
+        "description": "Crafted for comfort and ease, this Night Pant is perfect for relaxing evenings or casual outings. Made with soft, breathable fabric for an all-day cozy feel.",
+        "image": "components/categories/men/men4.jpg",
+        "price": 550,
+        "keywords": "night pant casual comfortable breathable",
+        "link": "categories/mp4_details.html"
+    },
+    {
+        "name": "Red Pant",
+        "description": "Add a pop of color with these smart Red Pants. Crafted from premium materials for comfort and durability. Perfect for casual wear or dressed-up occasions.",
+        "image": "components/categories/men/men5.jpg",
+        "price": 849,
+        "keywords": "red pant casual formal colorful",
+        "link": "categories/mp5_details.html"
+    },
+    {
+        "name": "Royal Jeans",
+        "description": "These Royal Jeans bring together style and comfort with a tailored fit. Made from premium denim, perfect for casual days or smart-casual events.",
+        "image": "components/categories/men/men6.jpg",
+        "price": 999,
+        "keywords": "jeans royal denim casual",
+        "link": "categories/mp6_details.html"
+    },
+    {
+        "name": "Jeans Shirt",
+        "description": "Upgrade your wardrobe with this stylish men’s jeans shirt. Designed for comfort and versatility. Ideal for both casual and formal occasions.",
+        "image": "components/categories/men/men1.jpg",
+        "price": 649,
+        "keywords": "jeans shirt casual stylish breathable",
+        "link": "categories/mp7_details.html"
+    },
+    {
+        "name": "Formal Shirt",
+        "description": "A classy formal shirt made from breathable fabric. Ideal for office wear, meetings, and formal occasions. Pairs well with trousers or jeans.",
+        "image": "components/categories/men/men8.jpg",
+        "price": 799,
+        "keywords": "formal shirt office classy breathable",
+        "link": "categories/mp8_details.html"
+    },
+    {
+        "name": "Stylish Shirt",
+        "description": "A stylish shirt crafted for comfort and elegance. Perfect for formal events, office wear, or smart casual outings. A wardrobe essential.",
+        "image": "components/categories/men/men9.jpg",
+        "price": 1299,
+        "keywords": "stylish shirt men fashion classy",
+        "link": "categories/mp9_details.html"
+    },
+    {
+        "name": "Grey Shirt",
+        "description": "This Grey Shirt offers a modern touch to classic style. Made from soft, breathable material. Suitable for office wear, casual gatherings, and everyday style.",
+        "image": "components/categories/men/men10.jpg",
+        "price": 799,
+        "keywords": "grey shirt men formal casual",
+        "link": "categories/mp10_details.html"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Classic Cap",
+        "description": "This Classic Cap is designed for comfort and style. Great for sunny outings, casual wear, or sporty looks.",
+        "image": "components/categories/other/cap2.jpg",
+        "price": 350,
+        "keywords": "cap casual sports headwear",
+        "link": "categories/op17_details.html"
+    },
+    {
+        "name": "Simple Glasses",
+        "description": "Lightweight and stylish, these Simple Glasses are perfect for daily use or fashion-forward looks.",
+        "image": "components/categories/other/glass2.jpg",
+        "price": 399,
+        "keywords": "glasses simple eyewear fashion",
+        "link": "categories/op2_details.html"
+    },
+    {
+        "name": "Kerchief Combo",
+        "description": "Pack of premium cotton kerchiefs suitable for daily use, soft and skin-friendly.",
+        "image": "components/categories/other/kerchief1.jpg",
+        "price": 199,
+        "keywords": "kerchief cloth napkin combo cotton",
+        "link": "categories/op14_details.html"
+    },
+    {
+        "name": "Premium Cap",
+        "description": "A premium cap with durable stitching and adjustable fit. Ideal for daily wear and travel.",
+        "image": "components/categories/other/cap1.jpg",
+        "price": 450,
+        "keywords": "cap premium adjustable stylish",
+        "link": "categories/op16_details.html"
+    },
+    {
+        "name": "Round Sunglasses",
+        "description": "Trendy round sunglasses for men and women. Offers UV protection and great style.",
+        "image": "components/categories/other/glass1.jpg",
+        "price": 499,
+        "keywords": "sunglasses round eyewear fashion",
+        "link": "categories/op1_details.html"
+    },
+    {
+        "name": "Formal Belt",
+        "description": "A formal black belt suitable for office and events. Made with durable leather-like material.",
+        "image": "components/categories/other/belt1.jpg",
+        "price": 349,
+        "keywords": "belt formal black leather office",
+        "link": "categories/op7_details.html"
+    },
+    {
+        "name": "Dual-Tone Belt",
+        "description": "This Dual-Tone Belt blends fashion and functionality, perfect for both jeans and formal wear.",
+        "image": "components/categories/other/belt2.jpg",
+        "price": 499,
+        "keywords": "belt dual-tone casual formal",
+        "link": "categories/op8_details.html"
+    },
+    {
+        "name": "Classic Cap 2",
+        "description": "Sporty Classic Cap with mesh backing for breathability. Perfect for workouts and running.",
+        "image": "components/categories/other/cap4.jpg",
+        "price": 650,
+        "keywords": "cap sporty mesh breathable",
+        "link": "categories/op18_details.html"
+    },
+    {
+        "name": "Men's Belt",
+        "description": "A stylish belt for men made with sturdy material. Pairs well with jeans or formal pants.",
+        "image": "components/categories/other/belt3.jpg",
+        "price": 399,
+        "keywords": "belt men stylish durable leather",
+        "link": "categories/op9_details.html"
+    },
+    {
+        "name": "Traditional Towel",
+        "description": "Soft and absorbent traditional towel suitable for daily household or bath use.",
+        "image": "components/categories/other/towel1.jpg",
+        "price": 499,
+        "keywords": "towel traditional cotton bath",
+        "link": "categories/op10_details.html"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "White Top",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women1.jpg",
+        "price": 1199,
+        "keywords": "white top women dress",
+        "link": "categories/wp1_details.html"
+    },
+    {
+        "name": "Stylish Top",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women2.jpg",
+        "price": 1480,
+        "keywords": "stylish top women dress",
+        "link": "categories/wp2_details.html"
+    },
+    {
+        "name": "Angel Dress",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women3.jpg",
+        "price": 1900,
+        "keywords": "angel dress women",
+        "link": "categories/wp3_details.html"
+    },
+    {
+        "name": "Night Wear Top",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women4.jpg",
+        "price": 650,
+        "keywords": "night wear top women dress",
+        "link": "categories/wp4_details.html"
+    },
+    {
+        "name": "Night Wear Top",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women5.jpg",
+        "price": 749,
+        "keywords": "night wear top women dress",
+        "link": "categories/wp5_details.html"
+    },
+    {
+        "name": "Modern Dress",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women6.jpg",
+        "price": 1399,
+        "keywords": "modern dress women",
+        "link": "categories/wp6_details.html"
+    },
+    {
+        "name": "Queen Dress",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women7.jpg",
+        "price": 1649,
+        "keywords": "queen dress women",
+        "link": "categories/wp7_details.html"
+    },
+    {
+        "name": "Modern Dress",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women8.jpg",
+        "price": 1299,
+        "keywords": "modern dress women",
+        "link": "categories/wp8_details.html"
+    },
+    {
+        "name": "Traditional Dress",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women9.jpg",
+        "price": 1399,
+        "keywords": "traditional dress women",
+        "link": "categories/wp9_details.html"
+    },
+    {
+        "name": "Simple Wear",
+        "description": "Refresh your wardrobe with this chic and comfortable women’s top. Crafted from soft, breathable fabric that feels light and flattering on the skin. Features stylish cuts, vibrant colors, and trendy patterns for any occasion. Perfect for casual outings, office wear, or weekend hangouts. Pair it with jeans, skirts, or trousers for an effortlessly stylish look.",
+        "image": "components/categories/women/women10.jpg",
+        "price": 699,
+        "keywords": "simple wear dress",
+        "link": "categories/wp10_details.html"
+    }
+
+    ]
